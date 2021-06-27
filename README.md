@@ -19,6 +19,8 @@ public:
 	PProperty<int16_t> Wis;
 	PString Name;
 };
+
+#pragma pack(pop)
 ```
 
 ### Building
